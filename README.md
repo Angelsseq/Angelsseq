@@ -63,4 +63,5 @@
   <img align="right" alt="angelo-gif" height="120" width="160" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75:00004D,110:FAF3E0&text=Angelsseq&section=footer&reversal=false&textBg=false&stroke=121212&strokeWidth=1&fontColor=FFF5E1&animation=twinkling&descSize=10"/>
+
