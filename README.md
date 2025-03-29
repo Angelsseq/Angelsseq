@@ -1,3 +1,6 @@
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=75:00004D,110:FAF3E0&text=Angelsseq&section=header&reversal=false&textBg=false&stroke=121212&strokeWidth=1&fontColor=FFF5E1&animation=twinkling&desc=Angelo%20Sequinel&descSize=10)"/>
+
+
 <h2 align="left">👋Hi there, welcome to my Github profile</h2>
 
 ###
